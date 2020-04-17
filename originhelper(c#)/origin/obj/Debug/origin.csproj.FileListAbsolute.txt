@@ -1,0 +1,11 @@
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\bin\Debug\origin.exe.config
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.Form1.resources
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.Properties.Resources.resources
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\bin\Debug\origin.exe
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\bin\Debug\origin.pdb
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.exe
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.pdb
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.csprojAssemblyReference.cache
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VS2012ITEMS\origin\origin\obj\Debug\origin.From2.resources
